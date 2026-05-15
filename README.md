@@ -1,33 +1,33 @@
 # Hi, I'm Piyush Awasthi 👋
 
-**Sr. Software Engineer & Platform Architect** with 12+ years of experience designing deployment platforms, intelligent automation systems, and DevOps tooling at scale. Currently driving AI/ML integration into enterprise infrastructure at Siemens — transitioning from building systems to architecting them.
+**Lead Engineer** with 12+ years of experience designing and building enterprise-grade backend systems, distributed platforms, and intelligent automation tools at scale. Currently architecting and developing EnergyIP's deployment orchestration platform at Siemens — I build the tools that operations teams rely on.
 
 ## 🚀 What I'm Building Now
 
-- **AI-powered deployment orchestration** — integrating LLMs and agentic AI into infrastructure automation workflows
+- **AI-powered deployment orchestration** — integrating LLMs and agentic AI into backend automation workflows
 - **Intelligent installer systems** — building context-aware automation that reduces manual intervention through AI-driven decision-making
-- **GitHub Copilot & AI coding agents** — leveraging AI pair programming to accelerate platform engineering delivery
+- **GitHub Copilot & AI coding agents** — leveraging AI pair programming to accelerate engineering delivery
 
 ## 🔧 What I Do
 
-- Design and build **Kubernetes-based deployment platforms** (Helm, ArgoCD, GitOps)
-- Architect **Infrastructure as Code** solutions (Terraform, Ansible)
-- Build **CI/CD pipelines** and automation frameworks (Jenkins, GitHub Actions)
-- Develop **AI-augmented DevOps tools** — combining traditional automation with LLM-based intelligence
+- Design and build **distributed backend systems** (Ruby, JRuby, Java/JVM, Python, Go)
+- Architect **enterprise deployment platforms** — DAG engines, state machines, configuration datastores
+- Lead teams and own **architecture decisions**, code quality, and delivery
+- Develop **AI-augmented engineering tools** — combining traditional automation with LLM-based intelligence
 - Develop **open-source tools** — former core engineer at Chef Software
 
 ## 🏢 Experience
 
 | Company | Role | Duration | Focus |
 |---------|------|----------|-------|
-| **Siemens Technology** | Sr. Software Engineer / Lead | Oct 2018 – Present | K8s platform, AI-powered deployment orchestration, JRuby distributed systems, SaaS & on-prem infrastructure, agentic AI for installer automation |
+| **Siemens Technology** | Lead Engineer | Oct 2018 – Present | Backend architecture, AI-powered deployment orchestration, JRuby/Java distributed systems, team leadership (7 engineers), SaaS & on-prem infrastructure |
 | **MSys Technology** (Chef Software) | Sr. Software Engineer | Jan 2017 – Oct 2018 | Core contributor to Chef infrastructure automation, built win32-certstore gem, chef-manage & chef-server |
 | **Aloha Technology** | Software Developer | Aug 2014 – Jan 2017 | Ruby on Rails applications, REST APIs, team leadership, full-stack development |
 | **Anchanto Services** | Software Developer | Dec 2013 – Aug 2014 | E-commerce platform development (Levi's), payment gateway integrations |
 
 ## 🏗️ Notable Projects
 
-- **[EnergyIP](https://new.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/grid-applications/energyip.html)** — Architecting deployment automation for Siemens' enterprise-scale energy management platform deployed across global utilities
+- **[EnergyIP](https://new.siemens.com/global/en/products/energy/energy-automation-and-smart-grid/grid-applications/energyip.html)** — Designed and built the deployment orchestration platform for Siemens' enterprise-scale energy management system deployed across global utilities
 - **AI-Powered Installer** — Building intelligent deployment orchestration using agentic AI, MCP, and LLM-driven decision-making
 
 ## 🤖 AI & Intelligent Automation
@@ -89,7 +89,7 @@
 
 ## 🎓 Education
 
-- **Master** — Master in Computer Application (Honors, 80%)
+- **M.C.A.** — North Maharashtra University, Jalgaon (Honors, 80%)
 
 ## 🌟 Open Source Contributions
 
@@ -111,4 +111,4 @@
 
 ---
 
-*"The future of infrastructure is intelligent — where AI doesn't just assist engineers, it becomes a deployment partner."* — Piyush Awasthi
+*"I don't just use infrastructure tools — I build them."* — Piyush Awasthi
